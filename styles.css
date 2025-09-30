@@ -1,14 +1,14 @@
 body {
-    background: darkolivegreen;
+    background: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: gray;
+    color: rgb(255, 154, 3);
     text-align: center;
 }
 div {
-    color: gray;
+    color: rgb(255, 136, 0);
 }
 h2 {
-    color: grey;
+    color: rgb(255, 154, 3);
 }
